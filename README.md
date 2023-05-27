@@ -79,3 +79,10 @@ which I will outline here.
 |------|------|
 | Easy to source | Bad power draw (maybe?)|
 | [ZMK PR exists with documentation](https://github.com/zmkfirmware/zmk/pull/961) | Large |
+
+I will be experimenting with both of these devices in order to determine which
+of the two I will prefer. I would probably use the trackball if it wasn't for
+the power draw issues as it is easier to source and seems to have better 
+documentation. I do however have more familiarity with the trackpoint and also 
+the power draw potentially gives a big benefit over the trackball. Power draw
+experimentation will determine which I use in the end.
